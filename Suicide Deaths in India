@@ -1,1 +1,17 @@
+Suicides and Deaths in India (2001-12)
 
+Case:
+To create a visualization to show total Suicides and Deaths in India due to various reasons, at different locations, with different age groups, etc.
+
+Analysis of the dataset:
+> Cleansed the dataset to remove duplicates and unwanted data.
+> Created custom columns to get additional information from the dataset.
+> Wrote SQL queries to find insights.
+> Visualized the key findings by building a dashboard using Tableau.
+
+Insights:
+1. Maharashtra leads in the suicidal deaths in India with over 9 million people dead during the period 2001-12.
+2. More than 20% of the total death was caused due to issues in Marriages.
+3. The year 2011 witnessed most death with over 0.4 million male and 0.2 million female deaths recorded.
+4. Each year from 2001-12 witnessed more of male suicides than females.
+5. Nearly 60% of the suicidal death population is male.
